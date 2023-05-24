@@ -4,6 +4,7 @@ kakaoapikey.txt
 password.txt
 key/
 model/
+credits.csv
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
